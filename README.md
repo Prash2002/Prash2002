@@ -1,7 +1,7 @@
 ## Konnichiwa 👋
 
 
-Hello! I'm Gandham Prasanthi, a computer Science undergraduate at Ramaiah Institute of Technology, Bangalore. I'm well versed with Flutter App Development, and pretty keen about Competitive Coding :)
+Hello! I'm Gandham Prasanthi, a computer Science undergraduate at Ramaiah Institute of Technology, Bangalore. I'm well versed with Flutter App Development, and I'm pretty keen about Competitive Coding :)
 
 ## Github Stats:
 
