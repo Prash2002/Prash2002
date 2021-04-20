@@ -32,4 +32,4 @@ Feel free to Dm me some anime recommendations :flushed:
 
 ### Thank you for visiting my profile!
 
-Visit count: &nbsp; &nbsp; ![Visitor Count](https://profile-counter.glitch.me/Prash2002/count.svg)
+Visitor count: &nbsp; &nbsp; ![Visitor Count](https://profile-counter.glitch.me/Prash2002/count.svg)
