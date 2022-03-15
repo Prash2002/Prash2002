@@ -28,7 +28,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ## Get in touch:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prasanthi-gandham-437353195/) &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/prash02)  &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](http://discordapp.com/users/570072181292269569)     &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/prash._.g/)   &nbsp; &nbsp;  [<img src='https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png' alt='MAL' height='40'>](https://myanimelist.net/profile/Prash1707) &nbsp; &nbsp;  [<img src='https://cdn.worldvectorlogo.com/logos/hackerrank.svg' alt='MAL' height='40'>](https://www.hackerrank.com/1707prash) &nbsp; &nbsp;  [<img src='https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg' alt='MAL' height='40'>](https://www.codechef.com/users/prash_1)
 
-Feel free to Dm me some anime recommendations :flushed:
+<!-- Feel free to Dm me some anime recommendations :flushed: -->
 
 ### Thank you for visiting my profile!
 
