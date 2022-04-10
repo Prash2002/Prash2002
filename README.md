@@ -32,7 +32,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- ![Prash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prash2002&show_icons=true&theme=great-gatsby&count_private=true) &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prash2002&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Prash2002&show_icons=true&theme=great-gatsby&count_private=true" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prash2002&theme=vision-friendly-dark&layout=compact&card_width=435" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prash2002&theme=vision-friendly-dark&layout=compact&card_width=400" >
 
 <br />
 
